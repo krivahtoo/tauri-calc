@@ -1,4 +1,4 @@
-# tauri-calc
+# Tauri Calc
 
 A simple gui calculator using [Tauri](https://tauri.studio/) a electron alternative
 
